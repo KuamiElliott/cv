@@ -14,6 +14,7 @@ img{
     width: 250px;
     border-radius: 100%;
     margin-top: 10px;
+    curser: pointer;
 }
 
 .about-text h2{
